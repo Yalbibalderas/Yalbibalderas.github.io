@@ -1,0 +1,35 @@
+---
+title: "Yalbi I. Balderas-Martínez"
+image: "yalbi.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/yalbi-i-balderas-martinez/"
+  - label: Twitter
+    url: "https://twitter.com/yalbi_ibm"
+  - label: GitHub
+    url: "https://github.com/Yalbibalderas"
+  - label: Email
+    url: "mailto:yalbibalderas@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Yalbi Balderas is an investigator on medical sciences at the National Institute of Respiratory Diseases in Mexico (INER).
+
+## Education
+
+**Universidad Nacional Autónoma de México** | Cuernavaca Mor.
+
+Ph.D. in Biomedical Sciences | September 2009 - May 2014
+
+**Universidad Veracruzana** | Xalapa, Ver.
+
+B.S. in Biology | September 2005 - May 2009
+
+## Experience
+
+**INER** | Investigator | September 2019 - Present
+
+**Cátedra CONACYT-INER** | Investigator | October 2016 - September 2019
