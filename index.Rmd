@@ -2,13 +2,13 @@
 title: "Yalbi I. Balderas-Martínez"
 image: "yalbi.jpg"
 links:
-  - label: LinkedIn
+  - label: '`r fontawesome::fa("linkedin", fill = "mediumvioletred")` LinkedIn'
     url: "https://www.linkedin.com/in/yalbi-i-balderas-martinez/"
-  - label: Twitter
+  - label: '`r fontawesome::fa("twitter", fill = "mediumvioletred")` Twitter'
     url: "https://twitter.com/yalbi_ibm"
-  - label: GitHub
+  - label: '`r fontawesome::fa("github", fill = "mediumvioletred")` GitHub'
     url: "https://github.com/Yalbibalderas"
-  - label: Email
+  - label: '`r fontawesome::fa("envelope-square", fill = "mediumvioletred")` Email'
     url: "mailto:yalbibalderas@gmail.com"
 output:
   postcards::trestles
@@ -33,3 +33,9 @@ B.S. in Biology | August 2002 - April 2007
 **INER** | Investigator | September 2019 - Present
 
 **Cátedra CONACYT-INER** | Investigator | October 2016 - September 2019
+
+**Postdoctoral researcher** | Postdoc | August 2014 - October 2016
+
+
+
+
